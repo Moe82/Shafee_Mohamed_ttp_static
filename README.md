@@ -1,1 +1,1 @@
-# Shafee_Mohamed_ttp_static
+# Static page challenge for the TTP Residency program. 
